@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Compiled output
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
